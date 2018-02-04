@@ -69,7 +69,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Consumer\Integrations\Integrations.csproj">
+    <ProjectReference Include="..\Integrations\Integrations.csproj">
       <Project>{1340537F-1857-42E4-BD11-D17A4F56EC17}</Project>
       <Name>Integrations</Name>
     </ProjectReference>
